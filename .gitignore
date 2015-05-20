@@ -1,0 +1,5 @@
+ToDoApp/.coverage
+js/node_modules/**
+*.pyc
+js/coverage/**
+ToDoApp/htmlcov/**
