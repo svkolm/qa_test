@@ -21,3 +21,6 @@
 
 тесты выполнять через
     karma start karma.config.js
+
+
+_P.S: решения присланные pull request'ом - as a plus :-)_
